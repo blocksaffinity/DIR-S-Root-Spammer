@@ -1,7 +1,9 @@
 #include <windows.h>
-int main() { 
+int main()
+{ 
 	system("color a"); 
-	while (true) { 
+	while (true)
+	{ 
 		system("dir C:\\ /w /s"); 
 	} 
 }
